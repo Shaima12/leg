@@ -252,10 +252,5 @@ Interface disponible sur : `http://localhost:8501`
 - **Llama 3.3 70B** : Génération de réponses
 
 
-**⚖️ Code du Travail Tunisien - RAG System**
-
-Fait avec ❤️ en Tunisie
-
-[Documentation](https://github.com/yourusername/code-travail-rag/wiki) • [Démo](https://your-demo-link.com) • [Report Bug](https://github.com/yourusername/code-travail-rag/issues)
 
 </div>
